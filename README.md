@@ -12,3 +12,6 @@ In 10 epochs: loss: 0.1650 - accuracy: 0.9519 - val_loss: 0.7581 - val_accuracy:
 If you want to use dataset, check out my Kaggle https://www.kaggle.com/maracrasava
 or
 https://drive.google.com/drive/folders/1sg9qK9VkbNsvdUPZIhyzQr4iyO6A9MUp?usp=sharing
+
+
+The accuracy is 95%
